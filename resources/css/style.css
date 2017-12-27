@@ -2,4 +2,20 @@ body {
   background-color: black;
   text-align: center;
   color: white;
+  font-family: Verdana;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: bold;
+}
+
+p {
+  color: Gray;
+  font-size: 21px;
 }
